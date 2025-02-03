@@ -9,7 +9,7 @@ paragrafo.innerHTML = "Escolha um número entre 1 e 500"; */
 //Fazendo boa prática para evitar a repetição dos códigos que estão 
 // comentados, criando função
 let listaNumero = [];
-let numeroMax = 800;
+let numeroMax = 1000;
 let numeroSecreto = geradorNumAleatorio(); 
 let tentativas = 1;
 
